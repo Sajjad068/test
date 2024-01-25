@@ -6,4 +6,6 @@ int main() {
     int a = 10;
     int b = 20;
     printf("Hello");
+    //added some comments
+    //added some other comments
 }
