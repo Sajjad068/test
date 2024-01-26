@@ -8,4 +8,6 @@ int main() {
     printf("Hello");
     //added some comments
     //added some other comments
+    int c = 40;
+    printf("%s", "salam");
 }
